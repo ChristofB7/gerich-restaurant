@@ -79,7 +79,7 @@
 
 @media screen and (max-width: 650px) {
     .app__specialMenu-menu_img {
-        width: 100%;
+        display: none;
     }
 
     .app__specialMenu-menu_heading {
