@@ -24,12 +24,11 @@ const Laurels = () => (
                 {data.awards.map((award) => <AwardCard award={award} key={award.title} />)}
             </div>
 
-            <div className="app__wrapper_img">
-                <img src={images.laurels} alt="laurels" />
-            </div>
         </div>
 
-
+        <div className="app__wrapper_img">
+            <img src={images.laurels} alt="laurels" />
+        </div>
     </div>
 )
 
