@@ -1,6 +1,8 @@
-# <center> Mock Restaurant Site </center>
-### <center> A static React webpage </center>
-### <center> [Live Demo](https://christofb7.github.io/gerich-restaurant/) </center>
+<p align="center">
+ # Mock Restaurant Site 
+ ### A static React webpage 
+ ### [Live Demo](https://christofb7.github.io/gerich-restaurant/) 
+</p>
  
 
 ### About:
